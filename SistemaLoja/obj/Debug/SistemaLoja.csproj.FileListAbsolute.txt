@@ -1,0 +1,76 @@
+c:\users\will\documents\visual studio 2015\Projects\SistemaLoja\SistemaLoja\bin\Debug\SistemaLoja.exe.config
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.csprojResolveAssemblyReference.cache
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.Properties.Resources.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.csproj.GenerateResource.Cache
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\bin\Debug\SistemaLoja.exe
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\bin\Debug\SistemaLoja.pdb
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\bin\Debug\EntityFramework.dll
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\bin\Debug\EntityFramework.xml
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.exe
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.pdb
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.Main.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmCadastrar.resources
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\bin\Debug\SistemaLoja.exe.config
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.exe
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.pdb
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\bin\Debug\SistemaLoja.exe
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\bin\Debug\SistemaLoja.pdb
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmCadastrar.resources
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.Main.resources
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.Properties.Resources.resources
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.csproj.GenerateResource.Cache
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmConsultar.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmAlterar.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmExcluir.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmLogin.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmConVenda.resources
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmAlterar.resources
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmConsultar.resources
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmConVenda.resources
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmExcluir.resources
+C:\Users\Aluno\Documentos\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.frmLogin.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\bin\Debug\SistemaLoja.exe.config
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.exe
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.pdb
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\bin\Debug\SistemaLoja.exe
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\bin\Debug\SistemaLoja.pdb
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\bin\Debug\EntityFramework.dll
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\bin\Debug\EntityFramework.xml
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.csprojResolveAssemblyReference.cache
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmAlterar.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmCadastrar.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmConsultar.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmConVenda.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmExcluir.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmLogin.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.Main.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.Properties.Resources.resources
+C:\Users\Will\Documents\Visual Studio 2015\Projects\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\bin\Debug\SistemaLoja.exe.config
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.exe
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.pdb
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\bin\Debug\SistemaLoja.exe
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\bin\Debug\SistemaLoja.pdb
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmAlterar.resources
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmCadastrar.resources
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmConsultar.resources
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmConVenda.resources
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmExcluir.resources
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.frmLogin.resources
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.Main.resources
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.Properties.Resources.resources
+C:\Users\Aluno\Documentos\SistemaLojaFinal\SistemaLoja\obj\Debug\SistemaLoja.csproj.GenerateResource.Cache
